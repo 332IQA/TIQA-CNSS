@@ -13,4 +13,5 @@ This is an Image Quality Assessment (IQA) software that allows users to design t
 ## Installation
 1. Clone or download the source code of this project:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+
+   git clone https://github.com/332IQA/TIQA-CNSS.git
